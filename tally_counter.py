@@ -1,0 +1,2 @@
+class TallyCounter:
+    pass
